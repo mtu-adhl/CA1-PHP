@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a66c8f66-e5c1-45de-9621-e5da6f1c7cf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CA1-Server-Side-Scripting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OahHanLim1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OahHanLim2.php" afterDir="false" />
+    <list default="true" id="a66c8f66-e5c1-45de-9621-e5da6f1c7cf0" name="Changes" comment="done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +57,16 @@
       <option name="presentableId" value="Default" />
       <updated>1677150096480</updated>
       <workItem from="1677150098111" duration="131000" />
-      <workItem from="1677150295259" duration="4261000" />
+      <workItem from="1677150295259" duration="4686000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1677154859577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677154859577</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
